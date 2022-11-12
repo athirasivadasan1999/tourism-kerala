@@ -1,0 +1,64 @@
+.nav-item a{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 1px solid white;
+    margin-right: 14px;
+}
+
+.nav-item a:hover {
+    background-color: teal;
+    color: black !important;
+}
+
+#image1
+{
+    width: 100%;
+    height: 450px;
+}
+
+
+#district-head
+{ 
+    text-align: center;
+    border: 1px solid green;
+    margin-top: -380px;
+    color: black;
+}
+
+
+.my_login {
+    float: left;
+    border: 2px solid white;  
+    margin-top: 70px;
+    height: 25em;
+    padding: 30px;
+    margin-left: 60px;
+    color: white;
+}
+
+.my_login h2 {
+    text-align: center;
+    color: white;
+}
+
+.my_signup {
+    border: 2px solid white;  
+    margin-top: 25px;
+    height: 33em;
+    padding: 30px;
+    margin-left: 100px;
+    margin-right: 800px;
+    color: white;
+}
+
+.my_signup h2 {
+    text-align: center;
+    color: white;
+}
+
+
+footer {
+    background-color: black;
+    height: 2.5em;
+}
+
+
